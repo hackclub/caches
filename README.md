@@ -26,6 +26,6 @@ To make these Caches happen, we'll do the following:
 4. Hack Clubbers recieve the kits & meetup to construct the kits (they place items of interest in the Cache). 
 5. The Cache gets buried! The exact location & a hint to find the Cache.
 
-3. 2. 1. Hack!
+<p>3. 2. 1. Hack!</p>
 
 @sampoder, 11/9/2022.
