@@ -1,6 +1,6 @@
 # 📀 Hack Club Caches
 
-**The TLDR:** Historic caches of hacker culture in the 2020s, placed around the world by Hack Clubbers.
+**The TLDR:** Caches of hacker culture in the 2020s, placed around the world by Hack Clubbers.
 
 We've got thousands of Hack Clubbers [all around the world](https://som-mail-system.hackclub.com), all [shipping](https://hackclub.com/ship) exciting projects & creating the internet age. **📀 Hack Club Caches** will create an artifact of this time. 
 
